@@ -10,5 +10,4 @@ val Purple40 = Color(0xFF6650a4)
 val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
 
-val BackGroundGradientStart = Color(0x6A6A6A)
-val BackGroundGradientEnd = Color(0xFF0101)
+val BackGroundColor = Color(0xFF303030)
